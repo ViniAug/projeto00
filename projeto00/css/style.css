@@ -1,0 +1,21 @@
+body{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+header{
+	background-image: url("https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?auto=format&fit=crop&w=1190&q=80");
+	background-size: 100% ;
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 100%;
+	text-align: center;
+	padding: 25%;
+	font-weight: bold;
+	color: white;
+
+}
+
+.imagens{
+	padding-top: 5%;
+	margin-bottom: 5%;
+}
